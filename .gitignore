@@ -4,6 +4,7 @@
 .sass-cache
 node_modules
 package.json
+.idea
 
 ## Jekyll stuff
 /_site/
